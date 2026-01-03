@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Finança Voice AI",
+  "description": "A smart financial assistant powered by Gemini. Talk to it like a colleague to manage your income, expenses, and reserves.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
